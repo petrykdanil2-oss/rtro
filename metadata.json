@@ -1,0 +1,6 @@
+{
+  "name": "Склеп Пепла — Ретро RPG",
+  "description": "Подземелье в духе Daggerfall с намеренно пиксельной графикой 1996 года и простой боевой системой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
